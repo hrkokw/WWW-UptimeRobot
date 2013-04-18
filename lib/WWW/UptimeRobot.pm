@@ -245,7 +245,7 @@ You can also look for information at:
 
 =item * Github Issue Tracker
 
-L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=WWW-UptimeRobot>
+L<https://github.com/lecar-red/WWW-UptimeRobot/issues>
 
 =item * AnnoCPAN: Annotated CPAN documentation
 
@@ -257,7 +257,7 @@ L<http://cpanratings.perl.org/d/WWW-UptimeRobot>
 
 =item * Search CPAN
 
-L<http://search.cpan.org/dist/WWW-UptimeRobot/>
+L<http://metacpan.org/dist/WWW-UptimeRobot/>
 
 =back
 
