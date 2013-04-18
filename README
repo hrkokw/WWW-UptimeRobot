@@ -58,7 +58,7 @@ SUPPORT
     You can also look for information at:
 
     * Github Issue Tracker
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=WWW-UptimeRobot
+        https://github.com/lecar-red/WWW-UptimeRobot/issues
 
     * AnnoCPAN: Annotated CPAN documentation
         http://annocpan.org/dist/WWW-UptimeRobot
@@ -67,7 +67,7 @@ SUPPORT
         http://cpanratings.perl.org/d/WWW-UptimeRobot
 
     * Search CPAN
-        http://search.cpan.org/dist/WWW-UptimeRobot/
+        http://metacpan.org/dist/WWW-UptimeRobot/
 
 SEE ALSO
     `LWP::UserAgent', `Moo'
