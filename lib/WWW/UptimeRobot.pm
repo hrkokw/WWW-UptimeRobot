@@ -159,7 +159,7 @@ sub debug {
 sub get_monitors {
     my $self = shift;
 
-    $self->_send_request( method => 'getMonitors' );
+    $self->_send_request( method => 'getMonitors', params => { @_ } );
 }
 
 sub get_alert_contacts {
